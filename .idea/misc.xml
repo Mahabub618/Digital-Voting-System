@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_admin_home.xml" value="0.27708333333333335" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_all_candidate.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_result.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_send_otp.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_verify_phone.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_voter_home.xml" value="0.27708333333333335" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/activity_voting.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/candidate_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/result.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/Clone/13-10-22/OnlineVote/app/src/main/res/layout/result_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/background_shape.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/brnred.xml" value="0.195" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/btnblueish.xml" value="0.195" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/btnlightpurple.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/btnpurple.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/btnred.xml" value="0.197" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/camerashapebtn.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/dashboard1.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/dashboard2.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/dashboard3.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/dashboard4.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/ic_camera_24.xml" value="0.1595" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/round_border.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/round_button.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/drawable/wave.xml" value="0.273" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/font/.xml" value="0.2212962962962963" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_add_party.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_add_voter.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_admin_home.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_admin_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_all_candidate.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_login_phone.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_main_menu.xml" value="0.33559782608695654" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_send_otp.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_verify_phone.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_view_party.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_voter_home.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_voting.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/candidate_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/dashboard_item_1.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/dashboard_item_2.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/dashboard_item_3.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/dashboard_item_4.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/singlerow.xml" value="0.25" />
+        <entry key="..\:/Users/mahab/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/mahab/AndroidStudioProjects/OnlineVote/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

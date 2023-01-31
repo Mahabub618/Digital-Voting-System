@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Online Vote</string>
+    <string name="voter">Voter</string>
+    <string name="more">more</string>
+    <string name="shot_views">Shot Views</string>
+    <string name="impacted">Impacted</string>
+    <string name="_147">147</string>
+    <string name="_395">395</string>
+    <string name="following">Following</string>
+    <string name="_820">820</string>
+    <string name="_186">$186</string>
+    <string name="thin_face_needle">thin face needle</string>
+    <string name="_225">225</string>
+    <string name="hydro_lifting">Hydro Lifting</string>
+    <string name="_180">$180</string>
+    <string name="_230">$230</string>
+    <string name="eyelid_surgery">Eyelid surgery</string>
+    <string name="_550">$550</string>
+    <string name="hydrolic_acid">Hydrolic Acid</string>
+    <string name="candidate">Candidate</string>
+    <string name="commissioner">Commissioner</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name = "colorPrimary">#0099ff</color>
+    <color name = "colorPrimaryDark">#0099ff</color>
+    <color name = "btnSignUp">#39796b</color>
+    <color name = "btnSignActive">#A9d440</color>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="green">#5FB709</color>
+    <color name="red">#EB0D0D</color>
+    <color name="blueish">#17A2C0</color>
+    <color name="blacklogo">#262626</color>
+    <color name="gray">#7E000000</color>
+    <color name="darkgray">#B2000000</color>
+    <color name="lightgray">#1D000000</color>
+    <color name="darkgreen">#026909</color>
+    <color name="offWhite">#36FFFFFF</color>
+    <color name="DarkBlue">#250285</color>
+
+    <color name="primary">#6A7CFF</color>
+    <color name="background">#F7F7FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary_text">#565B65</color>
+    <color name="secondary_text">#9B9A9D</color>
+    <color name="dashboard_item_1">#2CC2EA</color>
+    <color name="dashboard_item_2">#4DE9C9</color>
+    <color name="dashboard_item_3">#72A4FF</color>
+    <color name="dashboard_item_4">#8B72FF</color>
+    
+</resources>
