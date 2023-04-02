@@ -1,2 +1,16 @@
 # Digital-Voting-System (An android applicatoin)
-This project is aimed to develop an optimize process of conducting elections to the parliament, legislature and local bodies. The system is developed based on the online system. So, voter do not need to present in the vote center or do not need to wait a long serial. They can cast their vote from home, office, vehicle, hospital or from anywhere and any place. After ended of the election, all the voters have to wait for the result of the election. Manually vote counting is another lengthy process. Our developed system will count each and every vote automatically and stored into the online database. There is no need to count manually. The database will show the total vote count of each candidate in non-decreasing order. So, it will be easy to show how much vote a candidate have gotten and who will be the winner of the election. In EVM or Ballot box system it is the big problem to incapable of taking vote in parallelly. It means, the voting process is held in one-by-one system. A voter can cast their vote only after the complete of his/her previous serial person. But our system can take vote in parallelly. At a time more than one voter can cast their vote and data also can processed in parallel. It’s easy to change any massive function of voting system by firmware update and no need to change any hardware tools.
+At present, the voting system is so complicated and time consuming. Without physical attendance in the vote center voter cannot vote to his/her candidate. That is why, voter needs to go to the vote center and need to take a long serial for voting. Voter from distance place cannot cast his/her vote. Also, authenticating the voter is not so good well. So, there are lots of chances for vote cheating or ballot hijacks. The result has to be manually counted and that is a lengthy procedure. We believe smartphones are most likely to be used in the election settings that we considered. So, our android system is developed to save time and remove any kind of vote cheating. The system is developed an android application by which a voter can cast his/her vote anytime and from any place of the world. 
+# Objectives
+The most crucial part of this project is preventing opportunities for fraud or sacrificing the voter’s privacy.
+
+**i.	Democracy:** The system should be democratic and it will permit only the eligible voters to vote and it will ensure that voter can vote only once.
+
+**ii.	Privacy:** The system should ensure that none of the actors in the voting process influenced (organizer, voters, administrators etc.) and there is no way to vote in particular way.
+
+**iii.	Integrity:** The required procedure should be used to ensure that no one can duplicate his/her vote and that no one can modify someone else's vote.
+
+**iv.	Accuracy:** The system should ensure that there is no way to modify the final result of any candidate or eliminating a valid vote or counting an invalid vote.
+
+**v.	Verifiability:** The system should ensure that all the voters are verified and every vote is legal.
+
+**vi.	Convenience:** The system should be user friendly and there is no need to any skill to cast a vote. Every voter can cast in easy and quicker way.
